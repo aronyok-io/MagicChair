@@ -1,0 +1,1 @@
+print("MagicChair controller started!!")
